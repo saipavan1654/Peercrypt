@@ -1694,7 +1694,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
   
   
   
-  <p style="font-size: 18px; margin-bottom: 20px;"><strong>Made with by Kollipara Sai Govinda Saketh and Team </strong></p>
+  <p style="font-size: 18px; margin-bottom: 20px;"><strong>Made with by Vutukuri Naga Venkata Sai Pavan and Team </strong></p>
   
   <div style="margin: 20px 0;">
     <a href="https://github.com/username/peercrypt" style="background-color: #2b3a4d; color: #e6edf3; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 0 10px; display: inline-block; min-width: 120px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.2); border: 1px solid #444c56;">GitHub</a>
